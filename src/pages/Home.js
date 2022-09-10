@@ -128,7 +128,7 @@ function Home({name,setName,category,setCategory,difficulty,setDifficulty,setQue
 
 
       </div>
-      <img src='/reading.svg' className='home-img'></img>
+      <img src='/reading.svg' className='home-img' alt=''></img>
       </div>
       </ChakraProvider>
   )
